@@ -9,7 +9,7 @@ baseurl: '/CV' #change it according to your repository name
 #style: styles-3 #darkgreen
 #style: styles-4 #purple
 #style: styles-5 #orange
-style: styles-6
+style: styles-6 #darkblue
 
 
 #Profile information
@@ -18,8 +18,8 @@ tagline: Associate Librarian
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hi@lib.wtf
-phone: 585 395 2568
+email: lrath@brockport.edu
+phone: 585-395-2568
 website: librarian.help  #do not add http://
 linkedin: loganrath
 github: loganrath
